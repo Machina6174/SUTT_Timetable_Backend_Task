@@ -1,0 +1,2267 @@
+[
+    {
+        "course_code": "BIO F110",
+        "course_title": "BIOLOGY LABORATORY",
+        "credits": {
+            "lecture": "-",
+            "practical": 2,
+            "units": 1
+        },
+        "sections": [
+            {
+                "section_type": "practical",
+                "section_number": "P1",
+                "instructors": [
+                    "Sayantani Chatterjee(RS)",
+                    "Ramakrishnan S(RS)"
+                ],
+                "room": "3219",
+                "timing": [
+                    {
+                        "day": "F",
+                        "slots": [
+                            6,
+                            7
+                        ],
+                        "timings": [
+                            "2-3",
+                            "3-4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P2",
+                "instructors": [
+                    "Jitendra Panwar",
+                    "Valluri Harsha Prabha(RS)"
+                ],
+                "room": "3219",
+                "timing": [
+                    {
+                        "day": "F",
+                        "slots": [
+                            8,
+                            9
+                        ],
+                        "timings": [
+                            "4-5",
+                            "5-6"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P3",
+                "instructors": [
+                    "Lourdes Jennifer S(RS)",
+                    "B Vani"
+                ],
+                "room": "3219",
+                "timing": [
+                    {
+                        "day": "M",
+                        "slots": [
+                            1,
+                            2
+                        ],
+                        "timings": [
+                            "8-9",
+                            "9-10"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P4",
+                "instructors": [
+                    "Mukul Joshi",
+                    "Shiva Chaudhary(RS)"
+                ],
+                "room": "3219",
+                "timing": [
+                    {
+                        "day": "M",
+                        "slots": [
+                            6,
+                            7
+                        ],
+                        "timings": [
+                            "2-3",
+                            "3-4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P5",
+                "instructors": [
+                    "Sandhya Amol Marathe",
+                    "Ritu Jangir(RS)"
+                ],
+                "room": "3219",
+                "timing": [
+                    {
+                        "day": "M",
+                        "slots": [
+                            8,
+                            9
+                        ],
+                        "timings": [
+                            "4-5",
+                            "5-6"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P6",
+                "instructors": [
+                    "Meghana Tare",
+                    "Hariharan J(RS)"
+                ],
+                "room": "3219",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            1,
+                            2
+                        ],
+                        "timings": [
+                            "8-9",
+                            "9-10"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P7",
+                "instructors": [
+                    "Anasuya Banerjee(RS)",
+                    "Shraddha Gupta(RS)"
+                ],
+                "room": "3219",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            6,
+                            7
+                        ],
+                        "timings": [
+                            "2-3",
+                            "3-4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P8",
+                "instructors": [
+                    "RAJDEEP CHOWDHURY",
+                    "Chakraborty Srinjoy Srabani(RS)"
+                ],
+                "room": "3219",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            8,
+                            9
+                        ],
+                        "timings": [
+                            "4-5",
+                            "5-6"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P9",
+                "instructors": [
+                    "Gujarati Sukriti Nisha(RS)",
+                    "Shristy Shreya(RS)"
+                ],
+                "room": "3219",
+                "timing": [
+                    {
+                        "day": "Th",
+                        "slots": [
+                            6,
+                            7
+                        ],
+                        "timings": [
+                            "2-3",
+                            "3-4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P10",
+                "instructors": [
+                    "Farhanur Rahman(RS)",
+                    "Shelly Chauhan(RS)"
+                ],
+                "room": "3219",
+                "timing": [
+                    {
+                        "day": "Th",
+                        "slots": [
+                            8,
+                            9
+                        ],
+                        "timings": [
+                            "4-5",
+                            "5-6"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P11",
+                "instructors": [
+                    "Balakumaran Chandrasekar",
+                    "Saurabh Singh(RS)"
+                ],
+                "room": "3219",
+                "timing": [
+                    {
+                        "day": "W",
+                        "slots": [
+                            1,
+                            2
+                        ],
+                        "timings": [
+                            "8-9",
+                            "9-10"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P12",
+                "instructors": [
+                    "Prabhat Nath Jha",
+                    "Priya Gupta(RS)"
+                ],
+                "room": "3219",
+                "timing": [
+                    {
+                        "day": "W",
+                        "slots": [
+                            6,
+                            7
+                        ],
+                        "timings": [
+                            "2-3",
+                            "3-4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P13",
+                "instructors": [
+                    "Sushama Biswas(RS)"
+                ],
+                "room": "3219",
+                "timing": [
+                    {
+                        "day": "W",
+                        "slots": [
+                            8,
+                            9
+                        ],
+                        "timings": [
+                            "4-5",
+                            "5-6"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BIO F111",
+        "course_title": "GENERAL BIOLOGY",
+        "credits": {
+            "lecture": 3,
+            "practical": "-",
+            "units": 3
+        },
+        "sections": [
+            {
+                "section_type": "lecture",
+                "section_number": "L1",
+                "instructors": [
+                    "SHIBASISH CHOWDHURY",
+                    "Syamantak Majumder",
+                    "Pankaj Kumar Sharma",
+                    "Vishal Saxena"
+                ],
+                "room": "5102",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            2
+                        ],
+                        "timings": [
+                            "9-10"
+                        ]
+                    },
+                    {
+                        "day": "Th",
+                        "slots": [
+                            2
+                        ],
+                        "timings": [
+                            "9-10"
+                        ]
+                    },
+                    {
+                        "day": "F",
+                        "slots": [
+                            2
+                        ],
+                        "timings": [
+                            "9-10"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "lecture",
+                "section_number": "L2",
+                "instructors": [
+                    "Syamantak Majumder",
+                    "Pankaj Kumar Sharma",
+                    "Vishal Saxena"
+                ],
+                "room": "5106",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            4
+                        ],
+                        "timings": [
+                            "11-12"
+                        ]
+                    },
+                    {
+                        "day": "Th",
+                        "slots": [
+                            4
+                        ],
+                        "timings": [
+                            "11-12"
+                        ]
+                    },
+                    {
+                        "day": "F",
+                        "slots": [
+                            4
+                        ],
+                        "timings": [
+                            "11-12"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T1",
+                "instructors": [
+                    "Shashi Prakash Singh"
+                ],
+                "room": "6157",
+                "timing": [
+                    {
+                        "day": "F",
+                        "slots": [
+                            1
+                        ],
+                        "timings": [
+                            "8-9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T2",
+                "instructors": [
+                    "Uma S Dubey"
+                ],
+                "room": "6158",
+                "timing": [
+                    {
+                        "day": "F",
+                        "slots": [
+                            1
+                        ],
+                        "timings": [
+                            "8-9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T3",
+                "instructors": [
+                    "Shashi Prakash Singh"
+                ],
+                "room": "6153",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            7
+                        ],
+                        "timings": [
+                            "3-4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T4",
+                "instructors": [
+                    "Syamantak Majumder"
+                ],
+                "room": "6103",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            7
+                        ],
+                        "timings": [
+                            "3-4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T5",
+                "instructors": [
+                    "Pankaj Kumar Sharma"
+                ],
+                "room": "6104",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            7
+                        ],
+                        "timings": [
+                            "3-4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T6",
+                "instructors": [
+                    "Ashis Kumar Das"
+                ],
+                "room": "6154",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            7
+                        ],
+                        "timings": [
+                            "3-4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T7",
+                "instructors": [
+                    "Soumitra Ghosh"
+                ],
+                "room": "6157",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            7
+                        ],
+                        "timings": [
+                            "3-4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T8",
+                "instructors": [
+                    "P R Deepa"
+                ],
+                "room": "6153",
+                "timing": [
+                    {
+                        "day": "W",
+                        "slots": [
+                            1
+                        ],
+                        "timings": [
+                            "8-9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T9",
+                "instructors": [
+                    "Uma S Dubey"
+                ],
+                "room": "6154",
+                "timing": [
+                    {
+                        "day": "W",
+                        "slots": [
+                            1
+                        ],
+                        "timings": [
+                            "8-9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T10",
+                "instructors": [
+                    "Sudeshna Mukherjee"
+                ],
+                "room": "6157",
+                "timing": [
+                    {
+                        "day": "W",
+                        "slots": [
+                            1
+                        ],
+                        "timings": [
+                            "8-9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T11",
+                "instructors": [
+                    "Soumitra Ghosh"
+                ],
+                "room": "6158",
+                "timing": [
+                    {
+                        "day": "W",
+                        "slots": [
+                            1
+                        ],
+                        "timings": [
+                            "8-9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T12",
+                "instructors": [
+                    "Shibasish Chowdhury"
+                ],
+                "room": "6159",
+                "timing": [
+                    {
+                        "day": "W",
+                        "slots": [
+                            1
+                        ],
+                        "timings": [
+                            "8-9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T13",
+                "instructors": [
+                    "Vishal Saxena"
+                ],
+                "room": "6103",
+                "timing": [
+                    {
+                        "day": "W",
+                        "slots": [
+                            1
+                        ],
+                        "timings": [
+                            "8-9"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BITS F111",
+        "course_title": "THERMODYNAMICS",
+        "credits": {
+            "lecture": 3,
+            "practical": "-",
+            "units": 3
+        },
+        "sections": [
+            {
+                "section_type": "lecture",
+                "section_number": "L1",
+                "instructors": [
+                    "Manoj Kumar Soni"
+                ],
+                "room": "5102",
+                "timing": [
+                    {
+                        "day": "M",
+                        "slots": [
+                            3
+                        ],
+                        "timings": [
+                            "10-11"
+                        ]
+                    },
+                    {
+                        "day": "W",
+                        "slots": [
+                            3
+                        ],
+                        "timings": [
+                            "10-11"
+                        ]
+                    },
+                    {
+                        "day": "Th",
+                        "slots": [
+                            9
+                        ],
+                        "timings": [
+                            "5-6"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "lecture",
+                "section_number": "L2",
+                "instructors": [
+                    "SACHIN ULHASRAO BELGAMWAR"
+                ],
+                "room": "5102",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            3
+                        ],
+                        "timings": [
+                            "10-11"
+                        ]
+                    },
+                    {
+                        "day": "Th",
+                        "slots": [
+                            3
+                        ],
+                        "timings": [
+                            "10-11"
+                        ]
+                    },
+                    {
+                        "day": "F",
+                        "slots": [
+                            3
+                        ],
+                        "timings": [
+                            "10-11"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "lecture",
+                "section_number": "L3",
+                "instructors": [
+                    "Amit Jain"
+                ],
+                "room": "5102",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            6
+                        ],
+                        "timings": [
+                            "2-3"
+                        ]
+                    },
+                    {
+                        "day": "Th",
+                        "slots": [
+                            6
+                        ],
+                        "timings": [
+                            "2-3"
+                        ]
+                    },
+                    {
+                        "day": "F",
+                        "slots": [
+                            6
+                        ],
+                        "timings": [
+                            "2-3"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T1",
+                "instructors": [
+                    "Pradipta Chattopadhyay"
+                ],
+                "room": "1202",
+                "timing": [
+                    {
+                        "day": "F",
+                        "slots": [
+                            1
+                        ],
+                        "timings": [
+                            "8-9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T2",
+                "instructors": [
+                    "Naveen P. T.(RS)"
+                ],
+                "room": "6107",
+                "timing": [
+                    {
+                        "day": "F",
+                        "slots": [
+                            1
+                        ],
+                        "timings": [
+                            "8-9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T3",
+                "instructors": [
+                    "Amit Jain"
+                ],
+                "room": "1226",
+                "timing": [
+                    {
+                        "day": "F",
+                        "slots": [
+                            1
+                        ],
+                        "timings": [
+                            "8-9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T4",
+                "instructors": [
+                    "Biswadip Shome"
+                ],
+                "room": "1223",
+                "timing": [
+                    {
+                        "day": "F",
+                        "slots": [
+                            1
+                        ],
+                        "timings": [
+                            "8-9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T5",
+                "instructors": [
+                    "Bhanu Vardhan Reddy Kuncharam"
+                ],
+                "room": "6159",
+                "timing": [
+                    {
+                        "day": "F",
+                        "slots": [
+                            1
+                        ],
+                        "timings": [
+                            "8-9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T6",
+                "instructors": [
+                    "Priya Christina Sande"
+                ],
+                "room": "1201",
+                "timing": [
+                    {
+                        "day": "F",
+                        "slots": [
+                            1
+                        ],
+                        "timings": [
+                            "8-9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T7",
+                "instructors": [
+                    "Manoj Kumar Soni"
+                ],
+                "room": "6102",
+                "timing": [
+                    {
+                        "day": "M",
+                        "slots": [
+                            1
+                        ],
+                        "timings": [
+                            "8-9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T8",
+                "instructors": [
+                    "Indresh Kumar"
+                ],
+                "room": "6153",
+                "timing": [
+                    {
+                        "day": "M",
+                        "slots": [
+                            1
+                        ],
+                        "timings": [
+                            "8-9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T9",
+                "instructors": [
+                    "Nancy Maurya(RS)"
+                ],
+                "room": "1226",
+                "timing": [
+                    {
+                        "day": "M",
+                        "slots": [
+                            1
+                        ],
+                        "timings": [
+                            "8-9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T10",
+                "instructors": [
+                    "Pritam Kumar Jana"
+                ],
+                "room": "6154",
+                "timing": [
+                    {
+                        "day": "M",
+                        "slots": [
+                            1
+                        ],
+                        "timings": [
+                            "8-9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T11",
+                "instructors": [
+                    "Faizan Mohammad Rashid"
+                ],
+                "room": "2207",
+                "timing": [
+                    {
+                        "day": "M",
+                        "slots": [
+                            1
+                        ],
+                        "timings": [
+                            "8-9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T12",
+                "instructors": [
+                    "Priya Christina Sande"
+                ],
+                "room": "1205",
+                "timing": [
+                    {
+                        "day": "M",
+                        "slots": [
+                            1
+                        ],
+                        "timings": [
+                            "8-9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T13",
+                "instructors": [
+                    "Sachin Ulhasrao Belgamwar"
+                ],
+                "room": "1232",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            8
+                        ],
+                        "timings": [
+                            "4-5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T14",
+                "instructors": [
+                    "Indresh Kumar"
+                ],
+                "room": "6153",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            8
+                        ],
+                        "timings": [
+                            "4-5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T15",
+                "instructors": [
+                    "Sajal Mukherjee"
+                ],
+                "room": "1203",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            8
+                        ],
+                        "timings": [
+                            "4-5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T16",
+                "instructors": [
+                    "Pritam Kumar Jana"
+                ],
+                "room": "1205",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            8
+                        ],
+                        "timings": [
+                            "4-5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T17",
+                "instructors": [
+                    "Arpan Das"
+                ],
+                "room": "6154",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            8
+                        ],
+                        "timings": [
+                            "4-5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T18",
+                "instructors": [
+                    "Tanmoy Mondal"
+                ],
+                "room": "6157",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            8
+                        ],
+                        "timings": [
+                            "4-5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T19",
+                "instructors": [
+                    "Etika Krishna Chaitanya"
+                ],
+                "room": "1231",
+                "timing": [
+                    {
+                        "day": "Th",
+                        "slots": [
+                            1
+                        ],
+                        "timings": [
+                            "8-9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T20",
+                "instructors": [
+                    "Amit Jain"
+                ],
+                "room": "6157",
+                "timing": [
+                    {
+                        "day": "Th",
+                        "slots": [
+                            1
+                        ],
+                        "timings": [
+                            "8-9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T21",
+                "instructors": [
+                    "Faizan Mohammad Rashid"
+                ],
+                "room": "1203",
+                "timing": [
+                    {
+                        "day": "Th",
+                        "slots": [
+                            1
+                        ],
+                        "timings": [
+                            "8-9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T22",
+                "instructors": [
+                    "Shyam Sunder Yadav"
+                ],
+                "room": "1226",
+                "timing": [
+                    {
+                        "day": "Th",
+                        "slots": [
+                            1
+                        ],
+                        "timings": [
+                            "8-9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T23",
+                "instructors": [
+                    "Biswadip Shome"
+                ],
+                "room": "1227",
+                "timing": [
+                    {
+                        "day": "Th",
+                        "slots": [
+                            1
+                        ],
+                        "timings": [
+                            "8-9"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BITS F112",
+        "course_title": "TECHNICAL REPORT WRITING",
+        "credits": {
+            "lecture": 2,
+            "practical": "-",
+            "units": 2
+        },
+        "sections": [
+            {
+                "section_type": "lecture",
+                "section_number": "L1",
+                "instructors": [
+                    "Sanjiv Kumar Choudhary"
+                ],
+                "room": "5102",
+                "timing": [
+                    {
+                        "day": "M",
+                        "slots": [
+                            9
+                        ],
+                        "timings": [
+                            "5-6"
+                        ]
+                    },
+                    {
+                        "day": "W",
+                        "slots": [
+                            9
+                        ],
+                        "timings": [
+                            "5-6"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "lecture",
+                "section_number": "L2",
+                "instructors": [
+                    "Paul Mathew"
+                ],
+                "room": "6152",
+                "timing": [
+                    {
+                        "day": "M",
+                        "slots": [
+                            6
+                        ],
+                        "timings": [
+                            "2-3"
+                        ]
+                    },
+                    {
+                        "day": "W",
+                        "slots": [
+                            6
+                        ],
+                        "timings": [
+                            "2-3"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "lecture",
+                "section_number": "L3",
+                "instructors": [
+                    "SUSHILA SHEKHAWAT",
+                    "Ruchika Sharma(RS)",
+                    "Kirti Singh(RS)",
+                    "Pooja Chatterjee(RS)",
+                    "Vibha(RS)",
+                    "Asita A.(RS)",
+                    "Swati(RS)",
+                    "Sonika(RS)",
+                    "Kadam Onkar Rajendra(RS)",
+                    "Manasi Panwar(RS)",
+                    "Pradeep Bailwal(RS)",
+                    "Pranjal Aarav(RS)"
+                ],
+                "room": "6151",
+                "timing": [
+                    {
+                        "day": "M",
+                        "slots": [
+                            7
+                        ],
+                        "timings": [
+                            "3-4"
+                        ]
+                    },
+                    {
+                        "day": "W",
+                        "slots": [
+                            7
+                        ],
+                        "timings": [
+                            "3-4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "lecture",
+                "section_number": "L4",
+                "instructors": [
+                    "Sangeeta Sharma"
+                ],
+                "room": "6151",
+                "timing": [
+                    {
+                        "day": "M",
+                        "slots": [
+                            8
+                        ],
+                        "timings": [
+                            "4-5"
+                        ]
+                    },
+                    {
+                        "day": "W",
+                        "slots": [
+                            8
+                        ],
+                        "timings": [
+                            "4-5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "lecture",
+                "section_number": "L5",
+                "instructors": [
+                    "Virendra Singh Nirban"
+                ],
+                "room": "6151",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            7
+                        ],
+                        "timings": [
+                            "3-4"
+                        ]
+                    },
+                    {
+                        "day": "Th",
+                        "slots": [
+                            7
+                        ],
+                        "timings": [
+                            "3-4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "lecture",
+                "section_number": "L6",
+                "instructors": [
+                    "Prateek"
+                ],
+                "room": "6152",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            8
+                        ],
+                        "timings": [
+                            "4-5"
+                        ]
+                    },
+                    {
+                        "day": "Th",
+                        "slots": [
+                            8
+                        ],
+                        "timings": [
+                            "4-5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CHEM F110",
+        "course_title": "CHEMISTRY LABORATORY",
+        "credits": {
+            "lecture": "-",
+            "practical": 2,
+            "units": 1
+        },
+        "sections": [
+            {
+                "section_type": "practical",
+                "section_number": "P1",
+                "instructors": [
+                    "Paritosh Shukla",
+                    "Susmita Pradhan(RS)",
+                    "Mainika Verma(RS)"
+                ],
+                "room": "3115",
+                "timing": [
+                    {
+                        "day": "F",
+                        "slots": [
+                            1,
+                            2
+                        ],
+                        "timings": [
+                            "8-9",
+                            "9-10"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P2",
+                "instructors": [
+                    "PRASHANT UDAY MANOHAR",
+                    "Shubhangi Sharma(RS)",
+                    "Pinki(RS)"
+                ],
+                "room": "3115",
+                "timing": [
+                    {
+                        "day": "F",
+                        "slots": [
+                            3,
+                            4
+                        ],
+                        "timings": [
+                            "10-11",
+                            "11-12"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P3",
+                "instructors": [
+                    "Annu(RS)",
+                    "Ritu Rani(RS)",
+                    "Nitika(RS)",
+                    "Nancy(RS)"
+                ],
+                "room": "3115",
+                "timing": [
+                    {
+                        "day": "F",
+                        "slots": [
+                            6,
+                            7
+                        ],
+                        "timings": [
+                            "2-3",
+                            "3-4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P4",
+                "instructors": [
+                    "Ajay Kumar Sah",
+                    "Sakshi Bajaj(RS)",
+                    "Khushika(RS)"
+                ],
+                "room": "3115",
+                "timing": [
+                    {
+                        "day": "F",
+                        "slots": [
+                            8,
+                            9
+                        ],
+                        "timings": [
+                            "4-5",
+                            "5-6"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P5",
+                "instructors": [
+                    "Paritosh Shukla",
+                    "Ritu Kumari(RS)",
+                    "Arpit(RS)"
+                ],
+                "room": "3115",
+                "timing": [
+                    {
+                        "day": "M",
+                        "slots": [
+                            1,
+                            2
+                        ],
+                        "timings": [
+                            "8-9",
+                            "9-10"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P6",
+                "instructors": [
+                    "Prekshi Gupta(RS)",
+                    "Bharti Khungar",
+                    "Nitika(RS)"
+                ],
+                "room": "3115",
+                "timing": [
+                    {
+                        "day": "M",
+                        "slots": [
+                            3,
+                            4
+                        ],
+                        "timings": [
+                            "10-11",
+                            "11-12"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P7",
+                "instructors": [
+                    "Reena Jangir(RS)",
+                    "Satyajit Patra",
+                    "Pragati Shrivastava(RS)"
+                ],
+                "room": "3115",
+                "timing": [
+                    {
+                        "day": "M",
+                        "slots": [
+                            6,
+                            7
+                        ],
+                        "timings": [
+                            "2-3",
+                            "3-4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P8",
+                "instructors": [
+                    "Madhushree Sarkar",
+                    "Priyanka Bhardwaj(RS)",
+                    "Ritu Kumari(RS)"
+                ],
+                "room": "3115",
+                "timing": [
+                    {
+                        "day": "M",
+                        "slots": [
+                            8,
+                            9
+                        ],
+                        "timings": [
+                            "4-5",
+                            "5-6"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P9",
+                "instructors": [
+                    "Nidhi(RS)",
+                    "Prashant Choubey(RS)",
+                    "Tank Disha Harsukhbhai(RS)"
+                ],
+                "room": "3115",
+                "timing": [
+                    {
+                        "day": "S",
+                        "slots": [
+                            1,
+                            2
+                        ],
+                        "timings": [
+                            "8-9",
+                            "9-10"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P10",
+                "instructors": [
+                    "Reena Jangir(RS)",
+                    "Khushika(RS)",
+                    "Pinki(RS)"
+                ],
+                "room": "3115",
+                "timing": [
+                    {
+                        "day": "S",
+                        "slots": [
+                            3,
+                            4
+                        ],
+                        "timings": [
+                            "10-11",
+                            "11-12"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P11",
+                "instructors": [
+                    "Gadekar Amol Bhagwanrao(RS)",
+                    "Shruti Soni(RS)",
+                    "Vani Dhyani(RS)"
+                ],
+                "room": "3115",
+                "timing": [
+                    {
+                        "day": "S",
+                        "slots": [
+                            6,
+                            7
+                        ],
+                        "timings": [
+                            "2-3",
+                            "3-4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P12",
+                "instructors": [
+                    "Heena(RS)",
+                    "Anakshi Boruah(RS)",
+                    "Tarun Jangir(RS)",
+                    "Samya Suvra Datta(RS)"
+                ],
+                "room": "3115",
+                "timing": [
+                    {
+                        "day": "S",
+                        "slots": [
+                            8,
+                            9
+                        ],
+                        "timings": [
+                            "4-5",
+                            "5-6"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P13",
+                "instructors": [
+                    "Satyajit Patra",
+                    "Tank Disha Harsukhbhai(RS)",
+                    "Susmita Pradhan(RS)"
+                ],
+                "room": "3115",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            1,
+                            2
+                        ],
+                        "timings": [
+                            "8-9",
+                            "9-10"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P14",
+                "instructors": [
+                    "Astha Gupta(RS)",
+                    "Ram Kinkar Roy",
+                    "Shruti Soni(RS)"
+                ],
+                "room": "3115",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            3,
+                            4
+                        ],
+                        "timings": [
+                            "10-11",
+                            "11-12"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P15",
+                "instructors": [
+                    "Prashant Uday Manohar",
+                    "Borade Somnath Arjun(RS)",
+                    "Meenu(RS)"
+                ],
+                "room": "3115",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            6,
+                            7
+                        ],
+                        "timings": [
+                            "2-3",
+                            "3-4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P16",
+                "instructors": [
+                    "Madhushree Sarkar",
+                    "Priyanka Bhardwaj(RS)",
+                    "Arun Patel(RS)"
+                ],
+                "room": "3115",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            8,
+                            9
+                        ],
+                        "timings": [
+                            "4-5",
+                            "5-6"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P17",
+                "instructors": [
+                    "Prekshi Gupta(RS)",
+                    "Shubhangi Sharma(RS)",
+                    "Tarun Jangir(RS)"
+                ],
+                "room": "3115",
+                "timing": [
+                    {
+                        "day": "Th",
+                        "slots": [
+                            1,
+                            2
+                        ],
+                        "timings": [
+                            "8-9",
+                            "9-10"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P18",
+                "instructors": [
+                    "Amrita Chakraborty",
+                    "Ritu Rani(RS)",
+                    "Nidhi(RS)"
+                ],
+                "room": "3115",
+                "timing": [
+                    {
+                        "day": "Th",
+                        "slots": [
+                            3,
+                            4
+                        ],
+                        "timings": [
+                            "10-11",
+                            "11-12"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P19",
+                "instructors": [
+                    "Ram Kinkar Roy",
+                    "Meenu(RS)",
+                    "Anakshi Boruah(RS)"
+                ],
+                "room": "3115",
+                "timing": [
+                    {
+                        "day": "Th",
+                        "slots": [
+                            6,
+                            7
+                        ],
+                        "timings": [
+                            "2-3",
+                            "3-4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P20",
+                "instructors": [
+                    "Gadekar Amol Bhagwanrao(RS)",
+                    "Ajay Kumar Sah",
+                    "Sakshi Bajaj(RS)"
+                ],
+                "room": "3115",
+                "timing": [
+                    {
+                        "day": "Th",
+                        "slots": [
+                            8,
+                            9
+                        ],
+                        "timings": [
+                            "4-5",
+                            "5-6"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P21",
+                "instructors": [
+                    "Surojit Pande",
+                    "Nidhi(RS)",
+                    "Prashant Choubey(RS)"
+                ],
+                "room": "3115",
+                "timing": [
+                    {
+                        "day": "W",
+                        "slots": [
+                            1,
+                            2
+                        ],
+                        "timings": [
+                            "8-9",
+                            "9-10"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P22",
+                "instructors": [
+                    "Bibhas Ranjan Sarkar",
+                    "Arun Patel(RS)",
+                    "Sakshi Kushwaha(RS)"
+                ],
+                "room": "3115",
+                "timing": [
+                    {
+                        "day": "W",
+                        "slots": [
+                            3,
+                            4
+                        ],
+                        "timings": [
+                            "10-11",
+                            "11-12"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P23",
+                "instructors": [
+                    "Astha Gupta(RS)",
+                    "Borade Somnath Arjun(RS)",
+                    "Arpit(RS)",
+                    "Antima Saini(RS)"
+                ],
+                "room": "3115",
+                "timing": [
+                    {
+                        "day": "W",
+                        "slots": [
+                            6,
+                            7
+                        ],
+                        "timings": [
+                            "2-3",
+                            "3-4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "practical",
+                "section_number": "P24",
+                "instructors": [
+                    "Heena(RS)",
+                    "Annu(RS)",
+                    "Surojit Pande"
+                ],
+                "room": "3115",
+                "timing": [
+                    {
+                        "day": "W",
+                        "slots": [
+                            8,
+                            9
+                        ],
+                        "timings": [
+                            "4-5",
+                            "5-6"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CHEM F111",
+        "course_title": "GENERAL CHEMISTRY",
+        "credits": {
+            "lecture": 3,
+            "practical": "-",
+            "units": 3
+        },
+        "sections": [
+            {
+                "section_type": "lecture",
+                "section_number": "L1",
+                "instructors": [
+                    "PARTHA SARATHI ADDY",
+                    "Madhushree Sarkar",
+                    "Rajeev Sakhuja"
+                ],
+                "room": "5105",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            2
+                        ],
+                        "timings": [
+                            "9-10"
+                        ]
+                    },
+                    {
+                        "day": "Th",
+                        "slots": [
+                            2
+                        ],
+                        "timings": [
+                            "9-10"
+                        ]
+                    },
+                    {
+                        "day": "F",
+                        "slots": [
+                            2
+                        ],
+                        "timings": [
+                            "9-10"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "lecture",
+                "section_number": "L2",
+                "instructors": [
+                    "Partha Sarathi Addy",
+                    "Madhushree Sarkar",
+                    "Rajeev Sakhuja"
+                ],
+                "room": "5105",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            4
+                        ],
+                        "timings": [
+                            "11-12"
+                        ]
+                    },
+                    {
+                        "day": "Th",
+                        "slots": [
+                            4
+                        ],
+                        "timings": [
+                            "11-12"
+                        ]
+                    },
+                    {
+                        "day": "F",
+                        "slots": [
+                            4
+                        ],
+                        "timings": [
+                            "11-12"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T1",
+                "instructors": [
+                    "Paritosh Shukla"
+                ],
+                "room": "2204",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            7
+                        ],
+                        "timings": [
+                            "3-4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T2",
+                "instructors": [
+                    "Shamik Chakraborty"
+                ],
+                "room": "6107",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            7
+                        ],
+                        "timings": [
+                            "3-4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T3",
+                "instructors": [
+                    "Partha Sarathi Addy"
+                ],
+                "room": "6109",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            7
+                        ],
+                        "timings": [
+                            "3-4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T4",
+                "instructors": [
+                    "Ram Kinkar Roy"
+                ],
+                "room": "6160",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            7
+                        ],
+                        "timings": [
+                            "3-4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T5",
+                "instructors": [
+                    "Saumi Ray"
+                ],
+                "room": "6161",
+                "timing": [
+                    {
+                        "day": "T",
+                        "slots": [
+                            7
+                        ],
+                        "timings": [
+                            "3-4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T6",
+                "instructors": [
+                    "Prashant Uday Manohar"
+                ],
+                "room": "6153",
+                "timing": [
+                    {
+                        "day": "Th",
+                        "slots": [
+                            7
+                        ],
+                        "timings": [
+                            "3-4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T7",
+                "instructors": [
+                    "Paritosh Shukla"
+                ],
+                "room": "2204",
+                "timing": [
+                    {
+                        "day": "Th",
+                        "slots": [
+                            7
+                        ],
+                        "timings": [
+                            "3-4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T8",
+                "instructors": [
+                    "Madhushree Sarkar"
+                ],
+                "room": "6152",
+                "timing": [
+                    {
+                        "day": "Th",
+                        "slots": [
+                            7
+                        ],
+                        "timings": [
+                            "3-4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T9",
+                "instructors": [
+                    "Inamur Rahaman Laskar"
+                ],
+                "room": "6163",
+                "timing": [
+                    {
+                        "day": "Th",
+                        "slots": [
+                            7
+                        ],
+                        "timings": [
+                            "3-4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T10",
+                "instructors": [
+                    "Ram Kinkar Roy"
+                ],
+                "room": "6160",
+                "timing": [
+                    {
+                        "day": "W",
+                        "slots": [
+                            1
+                        ],
+                        "timings": [
+                            "8-9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T11",
+                "instructors": [
+                    "Saumi Ray"
+                ],
+                "room": "6161",
+                "timing": [
+                    {
+                        "day": "W",
+                        "slots": [
+                            1
+                        ],
+                        "timings": [
+                            "8-9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_type": "tutorial",
+                "section_number": "T12",
+                "instructors": [
+                    "Inamur Rahaman Laskar"
+                ],
+                "room": "6105",
+                "timing": [
+                    {
+                        "day": "W",
+                        "slots": [
+                            1
+                        ],
+                        "timings": [
+                            "8-9"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
